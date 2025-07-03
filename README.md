@@ -30,3 +30,8 @@ These describe how the system performs under certain conditions.
 - The system should be available 99.9% of the time.
 - Pages must load within 2 seconds.
 - The system must support up to 10,000 concurrent users.
+## Use Case Diagrams
+
+Use Case Diagrams visually represent the interactions between users (actors) and the system. They help stakeholders understand the system scope and functionality quickly.
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
