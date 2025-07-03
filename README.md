@@ -13,3 +13,20 @@ Requirement Gathering**: Collecting requirements from stakeholders using intervi
   Requirement Documentation**: Recording requirements in a structured format such as BRDs, user stories, or use cases.
   Requirement Analysis and Modeling**: Analyzing requirements for feasibility and modeling them using diagrams.
   Requirement Validation**: Ensuring the documented requirements match user expectations and business needs.
+## Types of Requirements
+
+### Functional Requirements
+These define the specific behaviors, functions, and features of the system.
+
+**Examples for the Booking Management System:**
+- Users can book a service online.
+- Admin can approve or cancel a booking.
+- System sends confirmation emails after a booking.
+
+### Non-functional Requirements
+These describe how the system performs under certain conditions.
+
+**Examples:**
+- The system should be available 99.9% of the time.
+- Pages must load within 2 seconds.
+- The system must support up to 10,000 concurrent users.
